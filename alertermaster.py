@@ -233,25 +233,25 @@ def reporter2(ads, less, matches, miaads, csschanges, xpathmismatches, num):
                 print(xpathmismatches[xpath])
 
 master = [
-# bundletwentytwowords,
-# bundlefoxnews,
-# bundlelivingly,
-# bundlehowstuffworks,
-# bundleweather,
-# bundledailymail,
-# bundleusatoday,
-# bundlebuzzfeed,
-# bundlethesaurus,
-# bundlelegacy,
-# bundlehistory,
-# bundlemlb,
-# bundlenypost,
-# bundlefoodnetwork,
-# bundlepostfun,
+bundletwentytwowords,
+bundlefoxnews,
+bundlelivingly,
+bundlehowstuffworks,
+bundleweather,
+bundledailymail,
+bundleusatoday,
+bundlebuzzfeed,
+bundlethesaurus,
+bundlelegacy,
+bundlehistory,
+bundlemlb,
+bundlenypost,
+bundlefoodnetwork,
+bundlepostfun,
 bundlecitationmachine
-# bundlelivestly,
-# bundleguardian,
-# bundlepopulareverything
+bundlelivestly,
+bundleguardian,
+bundlepopulareverything
 ]
 
 # Custom wait function used to encourage page to load all ads
